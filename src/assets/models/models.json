@@ -1,0 +1,23 @@
+[
+  {
+    "src": "/src/assets/models/cocacola.glb",
+    "name_en": "Coca-Cola Bottle",
+    "name_es": "Botella de Coca-Cola",
+    "description_en": "Photoreal 3D product mock-up for marketing and packaging.",
+    "description_es": "Mock-up 3D fotorrealista para marketing y empaque."
+  },
+  {
+    "src": "/src/assets/models/soccerball.glb",
+    "name_en": "Soccer Ball",
+    "name_es": "Balón de fútbol",
+    "description_en": "Classic sports ball model ready for AR and web.",
+    "description_es": "Modelo de balón clásico listo para AR y web."
+  },
+  {
+    "src": "/src/assets/models/perfume-botlle.glb",
+    "name_en": "Perfume Bottle",
+    "name_es": "Botella de perfume",
+    "description_en": "Cosmetics product model ideal for elegant product shots.",
+    "description_es": "Modelo cosmético ideal para tomas de producto elegantes."
+  }
+]
