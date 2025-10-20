@@ -15,9 +15,9 @@
   },
   {
     "src": "/user-models/cono.glb",
-    "name_en": "Perfume Bottle",
-    "name_es": "Botella de perfume",
-    "description_en": "Cosmetics product model ideal for elegant product shots.",
-    "description_es": "Modelo cosmético ideal para tomas de producto elegantes."
+    "name_en": "Cono",
+    "name_es": "Cono",
+    "description_en": "cone modeling for a security company.",
+    "description_es": "modelado de cono para una empresa de seguridad."
   }
 ]
